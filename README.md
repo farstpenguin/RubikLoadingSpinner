@@ -9,7 +9,8 @@ Drop in one file, add one tag. ~8&nbsp;KB, no build step, no dependencies.
 
 ## Demo
 
-Open **[index.html](index.html)** locally, or enable GitHub Pages on this repo to get a live URL.
+Open **[index.html](index.html)** locally, or once GitHub Pages is enabled:
+**https://farstpenguin.github.io/RubikLoadingSpinner/**
 
 ## Install
 
