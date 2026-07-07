@@ -4,8 +4,7 @@ A tiny, dependency-free loading spinner shaped like a Rubik's Cube. It scrambles
 
 Drop in one file, add one tag. ~8&nbsp;KB, no build step, no dependencies.
 
-<!-- Replace with a real screen capture of index.html (a short GIF works best) -->
-<!-- ![demo](docs/demo.gif) -->
+![demo](docs/demo.gif)
 
 ## Demo
 
